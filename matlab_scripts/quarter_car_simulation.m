@@ -57,3 +57,4 @@ Cs = 30;   % chosen value
 legend('Cs=5','Cs=10', 'Cs=30','Cs=80')
 title('Sprung Mass Acceleration / Road Input')
 
+
