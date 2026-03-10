@@ -148,17 +148,29 @@ The nonlinear model was evaluated using several road disturbances:
 
 # Results
 
-### Step Input Response
+### Step Input Response - 1 inch step input at 0.5 Hz 
 
-![Step Input](images/image5.png)
+![Step Input](images/image1.png)
 
-### Sinusoidal Road Input
+### Step Input Response - 1/4 inch step input at 0.5 Hz 
 
-![Sinusoidal Response](images/image6.png)
+![Step Input](images/image2.png)
 
-### Pothole Disturbance
+### Sinusoidal Road Input -  ±1 inch sinusoidal input at 1 Hz
 
-![Pothole Response](images/image7.png)
+![Sinusoidal Response](images/image3.png)
+
+### Sinusoidal Road Input - ±1/4 inch sinusoidal input at 10 Hz
+
+![Sinusoidal Response](images/image4.png)
+
+### Pothole Disturbance - 2 inch pothole disturbance (3 ft wide) at 60 mph
+
+![Pothole Response](images/image5.png)
+
+### Pothole Disturbance - 2 inch pothole disturbance (3 ft wide) at 30 mph
+
+![Pothole Response](images/image6.png)
 
 Key observations:
 
