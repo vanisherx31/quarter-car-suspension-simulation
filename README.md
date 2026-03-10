@@ -80,9 +80,7 @@ Key observations:
 - High damping → increased high-frequency vibration transmission
 - Optimal value found near
 
-\[
-C_s \approx 30 \, \text{lb-sec/in}
-\]
+$C_s \approx 30\ \text{lb-sec/in}$
 
 ---
 
