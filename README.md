@@ -72,7 +72,7 @@ Two masses represent the **vehicle body** and **wheel assembly**, connected thro
 
 A **Bode magnitude plot** was generated to evaluate different damping coefficients.
 
-![Bode Plot](images/image2.png)
+![Bode Plot](images/quarter_car_frequency_response.png)
 
 Key observations:
 
@@ -90,7 +90,7 @@ C_s \approx 30 \, \text{lb-sec/in}
 
 The quarter-car model was implemented in **Simulink using state-space equations**.
 
-![Simulink Model](images/image3.png)
+![Simulink Model](images/quarter_car_model.png)  
 
 Two cascaded integrators represent the **velocity and position states** of the sprung and unsprung masses.
 
@@ -100,7 +100,7 @@ Two cascaded integrators represent the **velocity and position states** of the s
 
 Using the optimal damping value, the suspension response was simulated for sinusoidal road input.
 
-![Linear Simulation](images/image4.png)
+![Linear Simulation](images/linear_time_response_zu_vs_zs_vs_zin%20(1).png)
 
 Observations:
 
