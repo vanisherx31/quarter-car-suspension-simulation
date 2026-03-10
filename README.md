@@ -193,5 +193,11 @@ under sinusoidal road inputs.
 - Nonlinear damping improved response to **large road disturbances**
 - The nonlinear suspension model **reduced oscillations while maintaining ride comfort**
 
+## Tools Used
+
+- MATLAB
+- Simulink
+- Control System Toolbox
+
 ---
 
