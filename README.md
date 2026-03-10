@@ -114,17 +114,19 @@ Observations:
 
 To improve performance during large disturbances, a **nonlinear damping model** was introduced:
 
-\[
+$$
 C(z_{rel}, \dot{z}_{rel}) =
 \begin{cases}
-C_c + k|z_{rel}| & \dot{z}_{rel} > 0 \\
-C_r + k|z_{rel}| & \dot{z}_{rel} \le 0
+C_c + k\.|z_{rel}|, & \dot{z}_{rel} > 0 \\
+C_r + k\.|z_{rel}|, & \dot{z}_{rel} \le 0
 \end{cases}
-\]
+$$
 
-Where
+where
 
-- \(z_{rel} = z_u - z_s\)
+$$
+z_{rel} = z_u - z_s
+$$
 
 Parameters used:
 
