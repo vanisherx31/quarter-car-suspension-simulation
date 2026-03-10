@@ -181,6 +181,10 @@ Key observations:
 - Ride comfort remained similar for sinusoidal inputs
 - Suspension deflection remained within acceptable limits
 
+The nonlinear damping model demonstrated improved disturbance rejection
+during pothole events while maintaining comparable ride comfort
+under sinusoidal road inputs.
+
 ---
 
 # Key Takeaways
