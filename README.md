@@ -90,7 +90,7 @@ C_s \approx 30 \, \text{lb-sec/in}
 
 The quarter-car model was implemented in **Simulink using state-space equations**.
 
-![Simulink Model](images/quarter_car_model.png)  
+![Simulink Model](images/simulink_block_diagram.png)  
 
 Two cascaded integrators represent the **velocity and position states** of the sprung and unsprung masses.
 
