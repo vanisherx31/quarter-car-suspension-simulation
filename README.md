@@ -62,7 +62,7 @@ Where
 
 # System Model
 
-![Quarter Car Model](images/image1.png)
+![Quarter Car Model](images/quarter_car_model.png)
 
 Two masses represent the **vehicle body** and **wheel assembly**, connected through a suspension spring and damper.
 
